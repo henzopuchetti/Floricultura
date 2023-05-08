@@ -1,0 +1,38 @@
+body{
+    background-color: darkslategray;
+}
+img{
+    width: 100px;
+    height: 150px;
+}
+
+.flores{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+    margin-top: 100px;
+    
+}
+
+.oi{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.logo{
+    width: 200px;
+    height: 130px;
+}
+
+h2{
+    margin-top: 50px;
+    display:flex ;
+    justify-content: center;
+}
+p{
+    display:flex ;
+    justify-content: center;
+}
